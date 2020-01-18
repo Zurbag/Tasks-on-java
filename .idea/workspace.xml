@@ -14,28 +14,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/javatasks/a_4_ts_17/ts_10v2.java">
+        <entry file="file://$PROJECT_DIR$/src/com/javatasks/gosha_dudar_java/lesson_5/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="149">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="238">
+              <caret line="14" column="41" lean-forward="true" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/javatasks/a_4_ts_17/ts_10.java">
+        <entry file="file://$PROJECT_DIR$/src/com/javatasks/gosha_dudar_java/lesson_6/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="549">
-              <caret line="36" column="72" lean-forward="true" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="72" />
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/javatasks/a_4_ts_17/ts_11.java">
+        <entry file="file://$PROJECT_DIR$/src/com/javatasks/gosha_dudar_java/lesson_7/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="11" lean-forward="true" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+            <state relative-caret-position="318">
+              <caret line="30" column="22" lean-forward="true" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -64,6 +67,13 @@
         <option value="$PROJECT_DIR$/src/com/javatasks/a_4_ts_17/ts_10.java" />
         <option value="$PROJECT_DIR$/src/com/javatasks/a_4_ts_17/ts_10v2.java" />
         <option value="$PROJECT_DIR$/src/com/javatasks/a_4_ts_17/ts_11.java" />
+        <option value="$PROJECT_DIR$/src/com/javatasks/gosha_dudar_java/lesson_3/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/javatasks/gosha_dudar_java/lesson_4/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/javatasks/gosha_dudar_java/lesson_5/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/javatasks/gosha_dudar_java/lesson_6.java" />
+        <option value="$PROJECT_DIR$/src/com/javatasks/gosha_dudar_java/lesson_6/lesson_6.java" />
+        <option value="$PROJECT_DIR$/src/com/javatasks/gosha_dudar_java/lesson_6/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/javatasks/gosha_dudar_java/lesson_7/Main.java" />
       </list>
     </option>
   </component>
@@ -82,6 +92,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -107,12 +118,50 @@
               <item name="javatasks" type="462c0819:PsiDirectoryNode" />
               <item name="a_4_ts_17" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Tasks-on-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tasks-on-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="javatasks" type="462c0819:PsiDirectoryNode" />
+              <item name="gosha_dudar_java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tasks-on-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tasks-on-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="javatasks" type="462c0819:PsiDirectoryNode" />
+              <item name="gosha_dudar_java" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson_4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tasks-on-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tasks-on-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="javatasks" type="462c0819:PsiDirectoryNode" />
+              <item name="gosha_dudar_java" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson_5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tasks-on-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tasks-on-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="javatasks" type="462c0819:PsiDirectoryNode" />
+              <item name="gosha_dudar_java" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson_6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tasks-on-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tasks-on-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="javatasks" type="462c0819:PsiDirectoryNode" />
+              <item name="gosha_dudar_java" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson_7" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -134,13 +183,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ts_11">
-    <configuration name="ts_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javatasks.a_4_ts_17.ts_10" />
+  <component name="RunManager" selected="Application.Main (3)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javatasks.gosha_dudar_java.lesson_4.Main" />
       <module name="JavaTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javatasks.a_4_ts_17.*" />
+          <option name="PATTERN" value="com.javatasks.gosha_dudar_java.lesson_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,12 +197,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ts_10v2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javatasks.a_4_ts_17.ts_10v2" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javatasks.gosha_dudar_java.lesson_5.Main" />
       <module name="JavaTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javatasks.a_4_ts_17.*" />
+          <option name="PATTERN" value="com.javatasks.gosha_dudar_java.lesson_5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,12 +210,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ts_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javatasks.a_4_ts_17.ts_11" />
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javatasks.gosha_dudar_java.lesson_7.Main" />
       <module name="JavaTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javatasks.a_4_ts_17.*" />
+          <option name="PATTERN" value="com.javatasks.gosha_dudar_java.lesson_7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,12 +223,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ts_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javatasks.a_4_ts_17.ts_8" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javatasks.gosha_dudar_java.lesson_3.Main" />
       <module name="JavaTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javatasks.a_4_ts_17.*" />
+          <option name="PATTERN" value="com.javatasks.gosha_dudar_java.lesson_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -187,12 +236,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ts_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javatasks.a_4_ts_17.ts_9" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javatasks.gosha_dudar_java.lesson_6.Main" />
       <module name="JavaTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javatasks.a_4_ts_17.*" />
+          <option name="PATTERN" value="com.javatasks.gosha_dudar_java.lesson_6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -202,11 +251,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ts_11" />
-        <item itemvalue="Application.ts_10v2" />
-        <item itemvalue="Application.ts_10" />
-        <item itemvalue="Application.ts_9" />
-        <item itemvalue="Application.ts_8" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -226,7 +275,7 @@
   <component name="ToolWindowManager">
     <frame x="-1608" y="-8" width="1616" height="876" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25321338" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25642672" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -316,27 +365,76 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaTasks.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/javatasks/a_4_ts_17/ts_10v2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
+        <state relative-caret-position="153">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/javatasks/a_4_ts_17/ts_10.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="549">
-          <caret line="36" column="72" lean-forward="true" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="72" />
+        <state relative-caret-position="612">
+          <caret line="36" column="72" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javatasks/GoshaDudarJava.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/javatasks/a_4_ts_17/ts_11.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="16" column="11" lean-forward="true" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+          <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javatasks/gosha_dudar_java/lesson_3/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#113#114#0" expanded="true" />
+            <element signature="e#149#150#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaTasks.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javatasks/gosha_dudar_java/lesson_4/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javatasks/gosha_dudar_java/lesson_5/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="41" lean-forward="true" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javatasks/gosha_dudar_java/lesson_6/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javatasks/gosha_dudar_java/lesson_7/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="30" column="22" lean-forward="true" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
         </state>
       </provider>
     </entry>
