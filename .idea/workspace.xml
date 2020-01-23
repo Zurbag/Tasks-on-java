@@ -46,13 +46,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ts_16">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javatasks.gosha_dudar_java.lesson_6.Main" />
+  <component name="RunManager" selected="Application.ps_3">
+    <configuration name="pf_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javatasks.a_6_pf_13.pf_1" />
       <module name="JavaTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javatasks.gosha_dudar_java.lesson_6.*" />
+          <option name="PATTERN" value="com.javatasks.a_6_pf_13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,12 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ts_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javatasks.a_4_ts_17.ts_13" />
+    <configuration name="pf_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javatasks.a_6_pf_13.pf_2" />
       <module name="JavaTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javatasks.a_4_ts_17.*" />
+          <option name="PATTERN" value="com.javatasks.a_6_pf_13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,38 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ts_13v2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javatasks.a_4_ts_17.ts_13v2" />
+    <configuration name="ps_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javatasks.a_6_pf_13.ps_3" />
       <module name="JavaTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javatasks.a_4_ts_17.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ts_14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javatasks.a_4_ts_17.ts_14" />
-      <module name="JavaTasks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javatasks.a_4_ts_17.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ts_15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javatasks.a_4_ts_17.ts_15" />
-      <module name="JavaTasks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javatasks.a_4_ts_17.*" />
+          <option name="PATTERN" value="com.javatasks.a_6_pf_13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,13 +99,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ts_17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javatasks.a_4_ts_17.ts_17" />
+      <module name="JavaTasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javatasks.a_4_ts_17.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ps_3" />
+        <item itemvalue="Application.pf_2" />
+        <item itemvalue="Application.pf_1" />
+        <item itemvalue="Application.ts_17" />
         <item itemvalue="Application.ts_16" />
-        <item itemvalue="Application.ts_15" />
-        <item itemvalue="Application.ts_14_i_do_not_answer" />
-        <item itemvalue="Application.ts_13v2" />
-        <item itemvalue="Application.ts_13" />
       </list>
     </recent_temporary>
   </component>
