@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9df19f24-6caf-43c5-8ee2-881501fd51bf" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTasks/com/javatasks/a_6_pf_13/pf_11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTasks/com/javatasks/a_6_pf_13/pf_11.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +47,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.pf_11">
+  <component name="RunManager" selected="Application.pf_13">
     <configuration name="pf_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.javatasks.a_6_pf_13.pf_10" />
       <module name="JavaTasks" />
@@ -73,8 +74,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pf_4_I_will_do_it_later" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javatasks.a_6_pf_13.pf_4_I_will_do_it_later" />
+    <configuration name="pf_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javatasks.a_6_pf_13.pf_12" />
       <module name="JavaTasks" />
       <extension name="coverage">
         <pattern>
@@ -86,8 +87,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pf_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javatasks.a_6_pf_13.pf_8" />
+    <configuration name="pf_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javatasks.a_6_pf_13.pf_13" />
       <module name="JavaTasks" />
       <extension name="coverage">
         <pattern>
@@ -114,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.pf_13" />
+        <item itemvalue="Application.pf_12" />
         <item itemvalue="Application.pf_11" />
         <item itemvalue="Application.pf_10" />
         <item itemvalue="Application.pf_9" />
-        <item itemvalue="Application.pf_8" />
-        <item itemvalue="Application.pf_4_I_will_do_it_later" />
       </list>
     </recent_temporary>
   </component>
