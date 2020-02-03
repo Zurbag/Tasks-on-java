@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9df19f24-6caf-43c5-8ee2-881501fd51bf" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTasks/com/javatasks/a_6_pf_13/pf_13.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/javatasks/a_6_pf_13/pf_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javatasks/a_6_pf_13/pf_13.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,6 +34,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -48,13 +48,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.pf_13">
-    <configuration name="pf_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javatasks.a_6_pf_13.pf_10" />
+  <component name="RunManager" selected="Application.Numbers">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javatasks.whire_rabbit.lesson_5.Main" />
       <module name="JavaTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javatasks.a_6_pf_13.*" />
+          <option name="PATTERN" value="com.javatasks.whire_rabbit.lesson_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javatasks.whire_rabbit.lesson_6.Numbers" />
+      <module name="JavaTasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javatasks.whire_rabbit.lesson_6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,26 +114,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pf_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javatasks.a_6_pf_13.pf_9" />
-      <module name="JavaTasks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javatasks.a_6_pf_13.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Numbers" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.pf_13" />
         <item itemvalue="Application.pf_12" />
         <item itemvalue="Application.pf_11" />
-        <item itemvalue="Application.pf_10" />
-        <item itemvalue="Application.pf_9" />
       </list>
     </recent_temporary>
   </component>
