@@ -1,6 +1,6 @@
 package com.javatasks.o_reilly;
 
-public class DooBee {
+public class o1DooBee {
     public static void main(String[] args) {
         int x = 1;
         while (x < 3) {
