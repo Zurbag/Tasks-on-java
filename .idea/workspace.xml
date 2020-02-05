@@ -4,6 +4,11 @@
     <list default="true" id="9df19f24-6caf-43c5-8ee2-881501fd51bf" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaTasks/com/javatasks/whire_rabbit/lesson_10/ControlOperators.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTasks/com/javatasks/whire_rabbit/lesson_10/ControlOperators.class" afterDir="false" />
+<<<<<<< HEAD
+=======
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTasks/com/javatasks/whire_rabbit/lesson_5/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTasks/com/javatasks/whire_rabbit/lesson_5/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javatasks/whire_rabbit/lesson_5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javatasks/whire_rabbit/lesson_5/Main.java" afterDir="false" />
+>>>>>>> 6ee6c2e34d8d99a430124b0a9523aba780059078
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +45,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< HEAD
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -52,6 +58,8 @@
     <option name="width" value="697" />
     <option name="height" value="699" />
   </component>
+=======
+>>>>>>> 6ee6c2e34d8d99a430124b0a9523aba780059078
   <component name="ProjectId" id="1VN5BXiTptS8ofM7CjJFPA8SWb3" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -114,7 +122,11 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Application.o5Test">
+=======
+  <component name="RunManager" selected="Application.tsa_1">
+>>>>>>> 6ee6c2e34d8d99a430124b0a9523aba780059078
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.javatasks.whire_rabbit.lesson_5.Main" />
       <module name="JavaTasks" />
@@ -167,12 +179,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="o5Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.javatasks.o_reilly.o5Test" />
+=======
+    <configuration name="tsa_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javatasks.a_7_tsa_22.tsa_1" />
+>>>>>>> 6ee6c2e34d8d99a430124b0a9523aba780059078
       <module name="JavaTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javatasks.o_reilly.*" />
+          <option name="PATTERN" value="com.javatasks.a_7_tsa_22.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -182,7 +199,11 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Application.o5Test" />
+=======
+        <item itemvalue="Application.tsa_1" />
+>>>>>>> 6ee6c2e34d8d99a430124b0a9523aba780059078
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.o4Shuffle" />
         <item itemvalue="Application.o3PhraseOMatic" />
