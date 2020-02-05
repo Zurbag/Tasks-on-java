@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9df19f24-6caf-43c5-8ee2-881501fd51bf" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTasks/META-INF/JavaTasks.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTasks/META-INF/JavaTasks.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTasks/com/javatasks/whire_rabbit/lesson_10/ControlOperators.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTasks/com/javatasks/whire_rabbit/lesson_10/ControlOperators.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaTasks/com/javatasks/whire_rabbit/lesson_5/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTasks/com/javatasks/whire_rabbit/lesson_5/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/javatasks/whire_rabbit/lesson_5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javatasks/whire_rabbit/lesson_5/Main.java" afterDir="false" />
     </list>
@@ -29,11 +29,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="166" />
-    <option name="width" value="697" />
-    <option name="height" value="699" />
-  </component>
   <component name="ProjectId" id="1VN5BXiTptS8ofM7CjJFPA8SWb3" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -58,26 +53,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.tsa_1">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.javatasks.whire_rabbit.lesson_5.Main" />
       <module name="JavaTasks" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.javatasks.whire_rabbit.lesson_5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javatasks.whire_rabbit.lesson_6.Numbers" />
-      <module name="JavaTasks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javatasks.whire_rabbit.lesson_6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,13 +106,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="tsa_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javatasks.a_7_tsa_22.tsa_1" />
+      <module name="JavaTasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javatasks.a_7_tsa_22.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.tsa_1" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.o4Shuffle" />
         <item itemvalue="Application.o3PhraseOMatic" />
         <item itemvalue="Application.o2Beersong_do_later" />
-        <item itemvalue="Application.Numbers" />
       </list>
     </recent_temporary>
   </component>
