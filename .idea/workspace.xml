@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e8ef99c7-4d0d-4bd5-92bd-1112b7682cb5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTasks/com/javatasks/a_7_tsa_22/tsa_5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTasks/com/javatasks/a_7_tsa_22/tsa_5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javatasks/a_7_tsa_22/tsa_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javatasks/a_7_tsa_22/tsa_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTasks/com/javatasks/whire_rabbit/lesson_5/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTasks/com/javatasks/whire_rabbit/lesson_5/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javatasks/whire_rabbit/lesson_5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javatasks/whire_rabbit/lesson_5/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,13 +45,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.tsa_6">
-    <configuration name="tsa_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javatasks.a_7_tsa_22.tsa_3" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javatasks.whire_rabbit.lesson_5.Main" />
       <module name="JavaTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javatasks.a_7_tsa_22.*" />
+          <option name="PATTERN" value="com.javatasks.whire_rabbit.lesson_5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.tsa_6" />
         <item itemvalue="Application.tsa_5v2" />
         <item itemvalue="Application.tsa_5" />
         <item itemvalue="Application.tsa_4" />
-        <item itemvalue="Application.tsa_3" />
       </list>
     </recent_temporary>
   </component>
