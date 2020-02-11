@@ -1,6 +1,6 @@
 package com.javatasks.o_reilly;
 
-public class DogTestDrive {
+public class o7DogTestDrive {
     public static void main(String[] args) {
         Dog dog = new Dog();
         dog.size = 40;

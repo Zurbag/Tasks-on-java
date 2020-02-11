@@ -1,6 +1,6 @@
 package com.javatasks.o_reilly;
 
-public class Dog {
+public class o7Dog {
     int size;
     String breed;
     String name;
