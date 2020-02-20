@@ -3,10 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="32ebd0d0-5d7f-44cb-9671-dab1fe15d180" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTasks/com/javatasks/a_7_tsa_22/Tsa_11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTasks/com/javatasks/a_7_tsa_22/Tsa_11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTasks/com/javatasks/a_7_tsa_22/Tsa_12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTasks/com/javatasks/a_7_tsa_22/Tsa_12.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTasks/com/javatasks/a_7_tsa_22/Tsa_13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTasks/com/javatasks/a_7_tsa_22/Tsa_13.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javatasks/a_7_tsa_22/Tsa_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javatasks/a_7_tsa_22/Tsa_13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTasks/com/javatasks/whire_rabbit/lesson_5/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTasks/com/javatasks/whire_rabbit/lesson_5/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javatasks/whire_rabbit/lesson_5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javatasks/whire_rabbit/lesson_5/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -43,9 +42,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Tsa_15">
-    <configuration name="Tsa_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javatasks.a_7_tsa_22.Tsa_11" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javatasks.whire_rabbit.lesson_5.Main" />
+      <module name="JavaTasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javatasks.whire_rabbit.lesson_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyMethodFindPrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javatasks.a_7_tsa_22.MyMethodFindPrimeNumber" />
       <module name="JavaTasks" />
       <extension name="coverage">
         <pattern>
@@ -57,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tsa_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javatasks.a_7_tsa_22.Tsa_12" />
+    <configuration name="Tsa_17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javatasks.a_7_tsa_22.Tsa_17" />
       <module name="JavaTasks" />
       <extension name="coverage">
         <pattern>
@@ -70,8 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tsa_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javatasks.a_7_tsa_22.Tsa_13" />
+    <configuration name="Tsa_18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javatasks.a_7_tsa_22.Tsa_18" />
       <module name="JavaTasks" />
       <extension name="coverage">
         <pattern>
@@ -83,34 +95,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tsa_14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javatasks.a_7_tsa_22.Tsa_14" />
-      <module name="JavaTasks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javatasks.a_7_tsa_22.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Tsa_15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javatasks.a_7_tsa_22.Tsa_15" />
-      <module name="JavaTasks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javatasks.a_7_tsa_22.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Tsa_16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javatasks.a_7_tsa_22.Tsa_16" />
+    <configuration name="Tsa_18v2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javatasks.a_7_tsa_22.Tsa_18v2" />
       <module name="JavaTasks" />
       <extension name="coverage">
         <pattern>
@@ -124,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Tsa_15" />
-        <item itemvalue="Application.Tsa_16" />
-        <item itemvalue="Application.Tsa_13" />
-        <item itemvalue="Application.Tsa_14" />
-        <item itemvalue="Application.Tsa_12" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Tsa_18v2" />
+        <item itemvalue="Application.Tsa_18" />
+        <item itemvalue="Application.Tsa_17" />
+        <item itemvalue="Application.MyMethodFindPrimeNumber" />
       </list>
     </recent_temporary>
   </component>
