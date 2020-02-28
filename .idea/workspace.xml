@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32ebd0d0-5d7f-44cb-9671-dab1fe15d180" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/javatasks/a_7_tsa_22/Tsa_20.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTasks/com/javatasks/a_7_tsa_22/Tsa_19.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTasks/com/javatasks/a_7_tsa_22/Tsa_19.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTasks/com/javatasks/a_7_tsa_22/Tsa_21$PerfectNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTasks/com/javatasks/a_7_tsa_22/Tsa_21$PerfectNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTasks/com/javatasks/a_7_tsa_22/Tsa_21.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTasks/com/javatasks/a_7_tsa_22/Tsa_21.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,20 +42,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Tsa_21">
-    <configuration name="Tsa_18v3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javatasks.a_7_tsa_22.Tsa_18v3" />
-      <module name="JavaTasks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javatasks.a_7_tsa_22.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Tsa_22">
     <configuration name="Tsa_19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.javatasks.a_7_tsa_22.Tsa_19" />
       <module name="JavaTasks" />
@@ -108,13 +95,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Tsa_22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javatasks.a_7_tsa_22.Tsa_22" />
+      <module name="JavaTasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javatasks.a_7_tsa_22.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Tsa_22" />
         <item itemvalue="Application.Tsa_21" />
         <item itemvalue="Application.Tsa_20v2" />
         <item itemvalue="Application.Tsa_20" />
         <item itemvalue="Application.Tsa_19" />
-        <item itemvalue="Application.Tsa_18v3" />
       </list>
     </recent_temporary>
   </component>
